@@ -1,0 +1,46 @@
+body {
+	background-color: #A9DFBF;
+	font-family: Courier;
+	}
+
+.topnav {
+	overflow: hidden;
+	background-color: #17202A;
+}
+
+.topnav a {
+	float: left;
+	display: block;
+	color: #f2f2f2;
+	text-align: center;
+	padding: 14px 16px;
+	text-decoration: none;
+}
+
+.topnav a:hover {
+	background-color: #ddd;
+	color: black;
+}
+
+.video {
+	display: block;
+	padding: 14px 16px;
+}
+
+.footer {
+	float: left;
+	width: 99%;
+	background-color: #f1f1f1;
+	padding-left: 20px;
+}
+
+.card {
+    background-color: #17202A;
+    padding: 5px;
+    margin-top: 16px;
+}
+
+.card h2 {
+	color: #E4D9D2;
+	text-align: center;
+}
